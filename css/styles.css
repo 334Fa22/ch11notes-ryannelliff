@@ -27,7 +27,7 @@ img, video {
 }
 
 /* Style rules for skip navigation link */
-.skip{
+.skip {
   position: absolute;
   left: -999px;
 }
